@@ -21,7 +21,7 @@ I am a PhD student at [the College of Computer Science and Technology](http://ww
 
 I graduated from Zhejiang University. I am now working on the Audio Research Team at Zhejiang University, under the supervision of [Prof. Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). My current research focuses on singing voice generation and spatial audio generation.
 
-My research interests include **Singing Voice Synthesis, Music Generation, Audio Generation, and other topics related to Natural Language Processing**. I have published first-author papers at top international AI conferences, including NeurIPS, AAAI, and EMNLP.
+My research interests include **Singing Voice Synthesis, Music Generation, Audio Generation, and other topics related to Natural Language Processing**. I have published papers at the top international AI conference NeurIPS.
 
 **I am actively seeking postdoctoral positions and research collaborations. Please feel free to contact me via email at guowx314@zju.edu.cn.**
 
