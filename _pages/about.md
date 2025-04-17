@@ -53,7 +53,8 @@ Yu Zhang, Changhao Pan, **Wenxinag Guo**, et al.
 
 ## 🎼 Audio Generation 
 
-- `NeurIPS 2024` [Frieren: Efficient Video-to-Audio Generation Network with Rectified Flow Matching](https://aclanthology.org/2024.acl-long.526/), Yongqi Wang, **Wenxiang Guo**, et al.
+- `NeurIPS 2024` [Frieren: Efficient Video-to-Audio Generation Network with Rectified Flow Matching](https://arxiv.org/abs/2406.00320), Yongqi Wang, **Wenxiang Guo**, et al.
+- ``AAAI-2025`` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](https://arxiv.org/abs/2502.12572), **Wenxiang Guo**, Yu Zhang, Changhao Pan, et. al. 
 # 🎖 Honors and Awards
 
 
