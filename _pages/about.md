@@ -26,6 +26,7 @@ My research interests include **Singing Voice Synthesis, Music Generation, Audio
 **I am actively seeking postdoctoral positions and research collaborations. Please feel free to contact me via email at guowx314@zju.edu.cn.**
 
 # 🔥 News
+- *2024.12* 🎉 1 paper is accepted by AAAI!
 - *2024.09* 🎉 GTSinger is accepted by NeurIPS 2024(spotlight)!
 - *2024.09* 🎉 Frieren is accepted by NeurIPS 2024!
 
