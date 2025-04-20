@@ -56,8 +56,6 @@ Yu Zhang, Changhao Pan, **Wenxinag Guo**, et al.
 
 - `NeurIPS 2024` [Frieren: Efficient Video-to-Audio Generation Network with Rectified Flow Matching](https://arxiv.org/abs/2406.00320), Yongqi Wang, **Wenxiang Guo**, et al.
 - ``AAAI-2025`` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](https://arxiv.org/abs/2502.12572), **Wenxiang Guo**, Yu Zhang, Changhao Pan, et. al. 
-# 🎖 Honors and Awards
-
 
 # 📖 Educations
 - *2023.09 - 2028.06 (Expected)*, PhD, Computer Science, College of Computer Science and Technology, Zhejiang University, Hangzhou, Zhejiang
