@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student at [the College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/) (浙江大学计算机学院).
 
-I graduated from Zhejiang University. I am now working on the Audio Research Team at Zhejiang University, under the supervision of [Prof. Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). My current research focuses on singing voice generation and spatial audio generation.
+I graduated from Zhejiang University. I am now working on the Audio Research Team at Zhejiang University, under the supervision of [Prof. Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou) and [Prof. Fei Wu (吴飞)](https://person.zju.edu.cn/wufei). My current research focuses on singing voice generation and spatial audio generation.
 
 My research interests include **Singing Voice Synthesis, Music Generation, Audio Generation, and other topics related to Natural Language Processing**. I have published papers at the top international AI conference NeurIPS.
 
