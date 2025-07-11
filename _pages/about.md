@@ -52,10 +52,17 @@ Yu Zhang, Changhao Pan, **Wenxinag Guo**, et al.
 </div>
 </div>
 
+- `ACL 2025` [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](https://arxiv.org/abs/2507.06670), **Wenxiang Guo**, Yu Zhang, Changhao Pan, et al. ｜ [**Project**](https://demo-stars.github.io/) \| [![](https://img.shields.io/github/stars/gwx314/STARS?style=social&label=STARS+Stars)](https://github.com/gwx314/STARS)
+
+- `AAAI 2025` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](https://arxiv.org/abs/2502.12572), **Wenxiang Guo**, Yu Zhang, Changhao Pan, et al. \| [**Project**](https://tech-singer.github.io/) \| [![](https://img.shields.io/github/stars/gwx314/TechSinger?style=social&label=TechSinger+Stars)](https://github.com/gwx314/TechSinger)
+
 ## 🎼 Audio Generation 
 
 - `NeurIPS 2024` [Frieren: Efficient Video-to-Audio Generation Network with Rectified Flow Matching](https://arxiv.org/abs/2406.00320), Yongqi Wang, **Wenxiang Guo**, et al.
-- ``AAAI-2025`` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](https://arxiv.org/abs/2502.12572), **Wenxiang Guo**, Yu Zhang, Changhao Pan, et. al. 
+
+- `ACMMM 2025` [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630), Yu Zhang, **Wenxiang Guo**, Changhao Pan, et al.
+
+- ``ACMMM 2025`` [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference](), Changhao Pan, **Wenxiang Guo**, Yu Zhang, et al. 
 
 # 📖 Educations
 - *2023.09 - 2028.06 (Expected)*, PhD, Computer Science, College of Computer Science and Technology, Zhejiang University, Hangzhou, Zhejiang
