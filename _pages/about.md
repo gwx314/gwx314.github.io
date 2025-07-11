@@ -26,7 +26,9 @@ My research interests include **Singing Voice Synthesis, Music Generation, Audio
 **I am actively seeking postdoctoral positions and research collaborations. Please feel free to contact me via email at guowx314@zju.edu.cn.**
 
 # 🔥 News
-- *2024.12* 🎉 1 paper is accepted by AAAI!
+- *2025.07* 🎉 2 paper are accepted by ACM-MM 2025!
+- *2025.05* 🎉 2 paper are accepted by ACL 2025!
+- *2024.12* 🎉 1 paper is accepted by AAAI 2025!
 - *2024.09* 🎉 GTSinger is accepted by NeurIPS 2024(spotlight)!
 - *2024.09* 🎉 Frieren is accepted by NeurIPS 2024!
 
@@ -52,9 +54,11 @@ Yu Zhang, Changhao Pan, **Wenxinag Guo**, et al.
 </div>
 </div>
 
+- `AAAI 2025` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](https://arxiv.org/abs/2502.12572), **Wenxiang Guo**, Yu Zhang, Changhao Pan, et al. \| [**Project**](https://tech-singer.github.io/) \| [![](https://img.shields.io/github/stars/gwx314/TechSinger?style=social&label=TechSinger+Stars)](https://github.com/gwx314/TechSinger)
+
 - `ACL 2025` [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](https://arxiv.org/abs/2507.06670), **Wenxiang Guo**, Yu Zhang, Changhao Pan, et al. ｜ [**Project**](https://demo-stars.github.io/) \| [![](https://img.shields.io/github/stars/gwx314/STARS?style=social&label=STARS+Stars)](https://github.com/gwx314/STARS)
 
-- `AAAI 2025` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](https://arxiv.org/abs/2502.12572), **Wenxiang Guo**, Yu Zhang, Changhao Pan, et al. \| [**Project**](https://tech-singer.github.io/) \| [![](https://img.shields.io/github/stars/gwx314/TechSinger?style=social&label=TechSinger+Stars)](https://github.com/gwx314/TechSinger)
+- `ACL 2025` [TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis](https://arxiv.org/abs/2505.14910), Yu Zhang, **Wenxiang Guo**, Changhao Pan, et al.
 
 ## 🎼 Audio Generation 
 
